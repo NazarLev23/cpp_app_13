@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <Filter Include="main">
-      <UniqueIdentifier>{3eb18cb3-ed76-4ecd-bfbf-e4dad0381120}</UniqueIdentifier>
+    <Filter Include="main1">
+      <UniqueIdentifier>{f34fbc1e-b7e5-4d90-a686-552f77e5ea88}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp">
-      <Filter>main</Filter>
+    <ClCompile Include="main1.cpp">
+      <Filter>main1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
